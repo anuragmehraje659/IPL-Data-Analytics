@@ -115,7 +115,7 @@ class Database:
         self.connection = mysql.connector.connect(
             host="localhost",
             user="root",
-            password="Anuragmh@09",
+            password="",
             database="ipl_project"
         )
 
