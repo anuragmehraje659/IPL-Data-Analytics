@@ -1,4 +1,4 @@
-🏏 IPL Data Analytics & Dashboard
+  🏏 IPL Data Analytics & Dashboard
 
 An end-to-end IPL Data Analytics project built using Python, SQL, MySQL, Power BI, and Streamlit to analyze IPL seasons, teams, players, runs, wickets, and performance.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -103,7 +103,7 @@ SQL analysis includes:
 - Player-wise analysis
 
 - Season-wise analysis
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📁 Project Structure
 
 IPL-Data-Analytics/
@@ -117,7 +117,7 @@ IPL-Data-Analytics/
 📄 File Description
 
 File
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Description    
 
 Dashboard.py
@@ -139,31 +139,31 @@ MySQL database operations
 README.md
 
 Project documentation
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- 🎯 Skills Demonstrated
 
-🎯 Skills Demonstrated
+- 🐍 Python programming
 
-🐍 Python programming
+- 🗄️ MySQL database connectivity
 
-🗄️ MySQL database connectivity
+- 🔎 SQL querying
 
-🔎 SQL querying
+- 🧹 Data cleaning and transformation
 
-🧹 Data cleaning and transformation
+- 📊 Power BI dashboard development
 
-📊 Power BI dashboard development
+- 🌐 Streamlit application development
 
-🌐 Streamlit application development
+- 📈 Data visualization
 
-📈 Data visualization
-
-🏏 Sports data analysis
+- 🏏 Sports data analysis
 
 📋 Reporting and KPI analysis
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🚀 Project Outcome
 
 This project demonstrates how raw IPL data can be transformed into structured database information, analyzed with SQL and Python, and presented through interactive Power BI and Streamlit dashboards.
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 👨‍💻 Author
 
 Anurag Mehra
@@ -171,6 +171,8 @@ Anurag Mehra
 Data Analyst | Python · SQL · MySQL · Power BI · Streamlit
 
 📧 anuragmehraje65@gmail.com
-🔗 LinkedIn Profile
+🔗 [LinkedIn Profile](https://in.linkedin.com/in/anurag-mehra-8796573a0)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ⭐ If you find this project useful, feel free to explore the repository.
